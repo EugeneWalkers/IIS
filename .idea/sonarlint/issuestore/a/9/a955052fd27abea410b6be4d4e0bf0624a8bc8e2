@@ -1,0 +1,21 @@
+
+1squid:S1220""Move this file to a named package.
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(â¯õ’8ˆœ–²ó,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôª¾›8¾‡Å¶ó,
+Tsquid:S1481¤"6Remove this unused "isRulesValueRight" local variable.(«ä»%8ùÝÚÄó,
+csquid:S1854¤"ERemove this useless assignment to local variable "isRulesValueRight".(«ä»%8ùÝÚÄó,
+osquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(Ø¼ËÑøÿÿÿÿ8˜³¦Åó,
+Isquid:S00108Ï")Either remove or fill this block of code.(šµ­Ë8ìÈ¶Åó,
+vsquid:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(•Ùªîøÿÿÿÿ8ìÈ¶Åó,
+usquid:S2259±"Q"NullPointerException" will be thrown when invoking method "isRulesValueRight()".(°Ü»Èþÿÿÿÿ8ùÝÚÄó,
+ƒsquid:S1149B"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÂüÑ½8”’Ï¶ó,
+‰squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(û°Ÿ¹þÿÿÿÿ8êÐÚÄó,
+‰squid:S1149‘"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³†­ùÿÿÿÿ8ÿðÄó,
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(Ïú†¯ûÿÿÿÿ8Û©Þ·ó,
+isquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ÖÈ† 8”’Ï¶ó,
+Fsquid:S1148;"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Þ‰¬¶ó,
+ƒsquid:S1149Ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(º¡ÖI8ô…µÅó,
+ksquid:S1192b"HDefine a constant instead of duplicating this literal "unknown" 3 times.(ðÁÂìýÿÿÿÿ8ùÝÚÄó,
+Fsquid:S1604M"(Make this anonymous inner class a lambda(à˜”‚8€£ ·ó,
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(—åá˜8Ô·ÄÅó,

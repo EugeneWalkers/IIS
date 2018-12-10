@@ -1,0 +1,8 @@
+
+Msquid:S1481"*Remove this unused "frame" local variable.(¸ºýŠøÿÿÿÿ8¿ÔÖµó,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(“íå=8º„×±ó,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8”œÂ±ó,
+8squid:S1220""Move this file to a named package.8ƒÿø°ó,
+\squid:S1854"9Remove this useless assignment to local variable "frame".(¸ºýŠøÿÿÿÿ8¿ÔÖµó,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ çüÿÿÿÿ8»åù±ó,
